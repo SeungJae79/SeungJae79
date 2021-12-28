@@ -15,3 +15,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 </p> 
+
+##  Tech Stack
+- Swift, RxSwift, Obj-c
+- Java, Kotlin
+- JavaScript, Node.js, PHP, ExtJS, Dart, Html
+- Windows, Linux, 
+- Etc...
