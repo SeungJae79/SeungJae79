@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Seung%20Jae&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=816AFF&height=300&section=header&text=Seung%20Jae&fontSize=90)
 
 
 
