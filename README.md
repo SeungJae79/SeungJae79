@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Seung%20Jae&fontSize=90)
+
+
+
+
 - 👋 Hi, I’m @SeungJae79
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
