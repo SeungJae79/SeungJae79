@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=816AFF&height=300&section=header&text=Seung%20Jae&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=816AFF&height=300&section=header&text=Seung%20Jae&fontSize=90&fontColor=000000)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
